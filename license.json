@@ -1,4 +1,4 @@
 {
-  "allow_run": False,
-  "message": "试用已到期，请联系作者续费"
+  "allow_run": false,
+  "message": "false"
 }
